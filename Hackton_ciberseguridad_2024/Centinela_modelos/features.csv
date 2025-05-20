@@ -1,0 +1,38 @@
+0
+id_incidente
+id_ubicacion
+id_zona_riesgo
+id_demografia
+fecha_hora_year
+fecha_hora_month
+fecha_hora_day
+descripcion_Asalto a mano armada en restaurante
+descripcion_Asalto a mano armada en un supermercado
+descripcion_Asalto a transeúnte en el parque central
+descripcion_Asalto a un ciclista en la vía pública
+descripcion_Asalto a un estudiante en la universidad
+descripcion_Asalto a un vehículo de reparto
+descripcion_Asalto en cajero automático
+descripcion_Daños a propiedad privada en zona residencial
+descripcion_Destrozos en una tienda de electrónica
+descripcion_Destrucción de bancos en parque de la ciudad
+descripcion_Destrucción de cámaras de seguridad en centro comercial
+descripcion_Destrucción de propiedad pública en parque
+descripcion_Pintadas en un monumento público
+descripcion_Pintura de grafiti en edificio histórico
+descripcion_Robo a mano armada en una tienda de conveniencia
+descripcion_Robo a tienda de ropa en centro comercial
+descripcion_Robo a transeúnte durante la noche
+descripcion_Robo a transeúnte en la plaza principal
+descripcion_Robo de equipo electrónico en universidad
+descripcion_Robo de motocicleta en estacionamiento
+descripcion_Robo de pertenencias a un grupo de turistas
+descripcion_Robo de vehículo estacionado
+descripcion_Robo en un domicilio particular
+descripcion_Rompimiento de ventanas en una escuela pública
+gravedad_leve
+gravedad_moderado
+estado_investigacion_cerrado
+estado_investigacion_en curso
+fuente_datos_policía
+fuente_datos_testigo
